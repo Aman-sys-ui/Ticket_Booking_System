@@ -1,0 +1,144 @@
+[
+  {
+    "trainId": "bacs",
+    "stationTime": {
+      "madhepura": "13:50:00",
+      "jaipur": "13:50:00",
+      "saharsa": "13:50:00",
+      "delhi": "13:50:00"
+    },
+    "seats": [
+      ["0", "0", "0", "0", "0", "0"],
+      ["0", "0", "0", "0", "0", "0"],
+      ["0", "0", "0", "0", "0", "0"]
+    ],
+    "trainNo": "2212345",
+    "stations": [
+      "madhepura",
+      "jaipur",
+      "saharsa",
+      "delhi"
+    ]
+  },
+  {
+    "trainId": "efb882f2-af45-4250-8f82-ea22d17268dd",
+    "stationTime": {
+      "madhepura": "11:00",
+      "supaul": "12:00",
+      "saharsa": "13:00",
+      "begusarai": "14:00"
+    },
+    "seats": [
+      [
+        "[0,0,0,0,0,0],\n[0,0,0,0,0,0],\n[0,0,0,0,0,0],\n[0,0,0,0,0,0]"
+      ]
+    ],
+    "trainNo": "22323",
+    "stations": [
+      "madhepura",
+      "supaul",
+      "saharsa",
+      "begusarai"
+    ]
+  },
+  {
+    "trainId": "0e4532cd-c302-43a7-b6d2-291dc0e57337",
+    "stationTime": {
+      "sdjfskd": "4234",
+      "sdfjs": "3423",
+      "dfos": "2342",
+      "sdfsdf": "3423",
+      "dfjsl": "23432"
+    },
+    "seats": [
+      [
+        "[0,0,0,0,0,0],\n[0,0,0,0,0,0],\n[0,0,0,0,0,0],\n[0,0,0,0,0,0]"
+      ]
+    ],
+    "trainNo": "22323",
+    "stations": [
+      "sdjfskd",
+      "sdfjs",
+      "dfos",
+      "sdfsdf",
+      "dfjsl"
+    ]
+  },
+  {
+    "trainId": "253a6e2e-424e-485f-b897-03e394f7d8a2",
+    "stationTime": {
+      "sdjfskd": "4234",
+      "sdfjs": "3423",
+      "dfos": "2342",
+      "sdfsdf": "3423",
+      "dfjsl": "23432"
+    },
+    "seats": [
+      [
+        "[0,0,0,0,0,0],\n[0,0,0,0,0,0],\n[0,0,0,0,0,0],\n[0,0,0,0,0,0]"
+      ]
+    ],
+    "trainNo": "22323",
+    "stations": [
+      "sdjfskd",
+      "sdfjs",
+      "dfos",
+      "sdfsdf",
+      "dfjsl"
+    ]
+  },
+  {
+    "trainId": "a5a2d708-b08b-44df-9471-3422c930f914",
+    "stationTime": {
+      "hjkm": "3423",
+      "dfsjf": "243"
+    },
+    "seats": [
+      [
+        "[0,0,0,0,0,0],\n[0,0,0,0,0,0],\n[0,0,0,0,0,0],\n[0,0,0,0,0,0]"
+      ]
+    ],
+    "trainNo": "22323",
+    "stations": [
+      "hjkm",
+      "dfsjf"
+    ]
+  },
+  {
+    "trainId": "dba77e44-cc72-48b5-9529-cda54411d9db",
+    "stationTime": {
+      "sdjfskd": "4234",
+      "sdfjs": "3423"
+    },
+    "seats": [
+      [
+        "[0,0,0,0,0,0],\n[0,0,0,0,0,0],\n[0,0,0,0,0,0],\n[0,0,0,0,0,0]"
+      ]
+    ],
+    "trainNo": "12365",
+    "stations": [
+      "sdjfskd",
+      "sdfjs"
+    ]
+  },
+  {
+    "trainId": "ca3c3db1-1bc0-40c8-9e52-e829fd13ad1f",
+    "stationTime": {
+      "dsfds": "233",
+      "dfsl": "424",
+      "sdkfs": "23232"
+    },
+    "seats": [
+      [
+        "[0,0,0,0,0,0],\n[0,0,0,0,0,0],\n[0,0,0,0,0,0],\n[0,0,0,0,0,0]"
+      ]
+    ],
+    "trainNo": "323556",
+    "stations": [
+      "dsfds",
+      "dfsl",
+      "sdkfs",
+      "sdkfs"
+    ]
+  }
+]
