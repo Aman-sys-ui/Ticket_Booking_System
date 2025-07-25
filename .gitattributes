@@ -1,0 +1,6 @@
+*.md linguist-documentation
+*.gradle linguist-detectable=false
+*.properties linguist-detectable=false
+.gradle linguist-vendored
+.idea linguist-vendored
+build linguist-vendored
